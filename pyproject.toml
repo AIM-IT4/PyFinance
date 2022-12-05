@@ -1,0 +1,13 @@
+name = "PyFinance"
+version = "0.0.1"
+authors = [
+  { name="Amit Kumar Jha", email="jha.8@iitj.ac.in" },
+]
+description = "A small example package"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
