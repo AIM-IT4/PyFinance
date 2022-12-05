@@ -1,7 +1,7 @@
 # PyFinance
 Portfolio Optimisation
 
-This is a python package which helps you optimise your portfolio of investments. It provides a range of portfolio optimisation methods, including the Markowitz Mean-Variance Optimisation (MVO) and the Black-Litterman Optimisation (BLO).
+This is a python package which helps you optimise your portfolio of investments. It provides a range of portfolio optimisation methods using random search algorithm
 
 The package provides a set of tools to help users select the best portfolio for their needs. It provides an easy-to-use interface for optimising portfolios using different methods and criteria. The package also allows users to compare different portfolios, view their performance over time, and make adjustments to their portfolios in order to maximise returns.
 
